@@ -1,2 +1,2 @@
 # zoom_clone
-Zoom cloned with React.js
+Zoom cloned with Node.js
